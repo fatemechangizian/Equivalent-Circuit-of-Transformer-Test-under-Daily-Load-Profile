@@ -6,6 +6,7 @@ Then take the open circuit test information and short circuit as well.
 This program must calculate all the parameters of the transformer separately and provide them to the user in the output.
 
 Note 1: Note that open circuit testing is performed on the low pressure side and short circuit testing is performed on the high pressure side.
+
 Note 2: The values provided for the test may not be exactly the same as the nominal values of the transformer and may eventually change within the nominal values.
 
 Step 2: In the Simulink environment, with the help of circuit elements (resistance and inductor) and the model of an ideal transformer, create real model of a single-phase transformer.
